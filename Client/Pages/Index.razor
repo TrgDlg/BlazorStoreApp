@@ -1,0 +1,16 @@
+﻿@page "/"
+
+@using Microsoft.AspNetCore.Components.Routing;
+
+@code {
+
+    [Inject] protected NavigationManager NavigationManager { get; init; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+
+        NavigationManager.NavigateTo("/homepage");
+    }
+
+}

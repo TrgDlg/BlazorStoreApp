@@ -1,0 +1,46 @@
+﻿@page "/homepage"
+@using StoreBlazor.Client.Pages
+@using StoreBlazor.Client.Models;
+
+@inherits HomePageBase
+@inject IModalService modal
+@inject NavigationManager NavigationManager
+
+
+
+<PageTitle>Welcome to our brand new store!</PageTitle>
+
+<h1>CD'n'Books</h1>
+
+<p>Choose any product you like to get detailed info!</p>
+
+@if (Products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Title</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Product in Products)
+            {
+                <tr @onclick="@(()=>NavigationManager.NavigateTo($"/card/{Product.Price}"))">
+                    <td>@Product.ProductType</td>
+                    <td>@Product.ProductName</td>
+                    <td>@Product.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button onclick="@(()=>NavigationManager.NavigateTo("/card/create"))">Add product</Button>
+}
+
+
+
