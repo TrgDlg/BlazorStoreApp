@@ -1,0 +1,40 @@
+﻿@page "/orders"
+
+@inherits OrdersBase
+@inject IModalService modal
+@inject NavigationManager NavigationManager
+
+<PageTitle>My orders</PageTitle>
+
+<h1>My orders</h1>
+
+<p>Click your order to get more info.</p>
+
+@if (Orders == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    @*
+    <table class="table">   
+        <thead>
+            <tr>
+                <th>Order №</th>
+                <th>Status</th>
+                <th>ChangeDate</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Order in Orders)
+            {
+                <tr @onclick="@(()=>NavigationManager.NavigateTo($"/card/{Order.OrderId}"))">
+                    <td>@Order.OrderId</td>
+                    <td>@Order.Status</td>
+                    <td>@Order.ChangeDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    *@
+}

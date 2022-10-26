@@ -1,0 +1,12 @@
+C:\Users\konov\source\repos\StoreBlazor\Shared\bin\Debug\net6.0\StoreBlazor.Shared.deps.json
+C:\Users\konov\source\repos\StoreBlazor\Shared\bin\Debug\net6.0\StoreBlazor.Shared.dll
+C:\Users\konov\source\repos\StoreBlazor\Shared\bin\Debug\net6.0\StoreBlazor.Shared.pdb
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.csproj.AssemblyReference.cache
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.AssemblyInfo.cs
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.dll
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\refint\StoreBlazor.Shared.dll
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\StoreBlazor.Shared.pdb
+C:\Users\konov\source\repos\StoreBlazor\Shared\obj\Debug\net6.0\ref\StoreBlazor.Shared.dll

@@ -1,0 +1,43 @@
+﻿@using StoreBlazor.Client.Models
+
+<div class="product-container">
+    <h1 class="top-header"> Card: @Product.ProductName</h1>
+    <div class="modal-card">
+        <div class="item-container">
+
+            @if(Product.ProductType == "Book")
+            {
+                <img class="item-img" src="/book.png"/>
+            }
+            else
+            {
+                <img class="item-img" src="/compact_disc.png"/>
+            }
+            
+            <div class="product-item">
+                Price is: @Product.Price
+            </div> 
+        </div>
+            @if(Product.ProductType == "Book")
+            {
+                 <div class="item-data"> This is a nice @Product.ProductType about @Product.SpecialtyType!</div>
+                 <div class="item-data"> There are @Product.Pages pages!</div>
+                 <div class="item-data"> Note that it contains  topic about @Product.Specialty!</div>
+            }
+            else
+            {
+                 <div class="item-data"> It is a @Product.SpecialtyType with a flawless @Product.Specialty!</div>
+            }
+    </div>
+
+    <div class="buttons">
+        <button class="button-add">Add to cart</button>
+        <button class="button-add">Close</button>
+        <button class="button-delete">Delete item</button>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Product Product { get; set; } 
+}

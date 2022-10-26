@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = StoreBlazor.Client
+build_property.RootNamespace = StoreBlazor.Client
+build_property.ProjectDir = C:\Users\konov\source\repos\StoreBlazor\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\konov\source\repos\StoreBlazor\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/Order.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Shared/ModalOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/CreateCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ochtxd2y8x
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Pages/Product.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3rt2p7txw9
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-spyx8r4c0f
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Shared/ModalCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kcjzerpnod
+
+[C:/Users/konov/source/repos/StoreBlazor/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e456sroxo3

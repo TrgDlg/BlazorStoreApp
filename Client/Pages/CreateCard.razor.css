@@ -1,0 +1,16 @@
+.table-header {
+    
+}
+
+.table-row {
+
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-column {
+    width: 16vh;
+}

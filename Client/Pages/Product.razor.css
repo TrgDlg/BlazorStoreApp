@@ -1,0 +1,56 @@
+.modal-card {
+    
+}
+
+.top-header {
+
+}
+
+.item-container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.item-img {
+    height: 6vh;
+    margin-right: 8vh;
+}
+
+.product-item {
+    font-size: 3vh;
+}
+
+.product-container {
+    display: flex;
+    flex-direction: column;
+    /* width: 79vh; */
+    /* height: 30vw; */
+    background: darkgrey;
+    border-radius: 3vh;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    /* position: relative; */
+    /* bottom: 30vh;*/
+}
+
+.buttons {
+    margin-top: 10vh;
+}
+
+.button-add {
+    font-size: 3vh;
+    border-radius: 1vh;
+}
+
+.button-delete {
+    font-size: 3vh;
+    display: none;
+}
+
+.item-data {
+    margin: 5vh 0vh 0vh 0vh;
+    font-size: 2vh;
+}
