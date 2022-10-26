@@ -22,7 +22,6 @@ namespace StoreBlazor.Client.Pages
 
         protected void ModalShow(Product product)
         {
-            bool test = true;
             ShowModal = true;
             SelectedProduct = product;
         }
