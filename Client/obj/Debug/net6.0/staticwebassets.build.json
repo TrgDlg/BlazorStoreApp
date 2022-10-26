@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yKXLPh9NRo/8e1r5Mx9Y0+fhSJcbwG6gYzv7MUYjIhY=",
+  "Hash": "Wl2gT6ogzglrGIgCyxhddi+MiiprBasC5mnTQCRrl+I=",
   "Source": "StoreBlazor.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7070,6 +7070,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StoreBlazor.Client.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\wwwroot\\book.png",
+      "SourceId": "StoreBlazor.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "book.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\book.png"
+    },
+    {
+      "Identity": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\wwwroot\\compact_disc.png",
+      "SourceId": "StoreBlazor.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "compact_disc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\compact_disc.png"
     },
     {
       "Identity": "C:\\Users\\konov\\source\\repos\\StoreBlazor\\Client\\wwwroot\\css\\app.css",
